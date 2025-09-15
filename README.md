@@ -113,14 +113,16 @@ I wish you all the best as you explore this limited app!
 ![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/dash1.png)
 
 ## Table Sample (House Listing)
-![House Listing table](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/houses&20listings.png)
+![House Listing table](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/house_listings.png)
 
 ## Form Sample (Form for admitting a tenant)
-![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/form-add%20tenant.png)
+![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/form-add_tenant.png)
 
 # Mobile phone views
-## Phone dashboard
+## full Phone dashboard
 ![Administrator full dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Dashboard_mobile.png)
+
+## phone dashboard
 ![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/mobile_dashboard.png)
 
 
@@ -128,10 +130,10 @@ I wish you all the best as you explore this limited app!
 ![Administrator adding a tenant](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/phone_tenants.png)
 
 ## Phone form (adding new house)
-![Administrator adding a new house](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/mobile&20add&20house.png)
+![Administrator adding a new house](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/mobile_add_house.png)
 
 ## mobile (View tenants) 
-![mobile layout view tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/View&20Tenants&20mobile.png)
+![mobile layout view tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/View_tenants_mobile.png)
 
 
 ## Phone SMS notifications
@@ -159,7 +161,7 @@ We added
 - A landing page that can display all vacant rooms with their pricing.
 - Theme color changes for better visibility
 
-![New Dashboard](https://github.com/RLTtech2/Rental-house-management-system/blob/main/smsnotify.png)
+![New Dashboard](https://github.com/RLTtech2/Rental-house-management-system/blob/main/tablenew.png)
 
 # Special Thanks to:
 - [Dev Leon](https://github.com/RLTtech2) [Katw'a_Jnr] 
