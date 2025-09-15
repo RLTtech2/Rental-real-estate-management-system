@@ -14,7 +14,7 @@ If you wish test the system, you can click the link below:
 
 
 # Or the more stable Laravel version view...
-![New Dashboard](./dashnewb_dark.png)
+![New Dashboard](./newdash.png)
 
 developed under **[Ukwaju Systems](https://ukwaju.systems)** 
 View a demonstration [here:](https://youtu.be/H1gM3E5sZPs)
@@ -104,23 +104,35 @@ I wish you all the best as you explore this limited app!
 
 # Views
 ## The Blog
-![Blog](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Blog.png)
+![Blog](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/blog.png)
+
+## Log IN
+![Log IN](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/login.png)
 
 ## Admin Dashboard with notifications
-![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/dashboard-2.png)
+![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/dash1.png)
 
 ## Table Sample (House Listing)
-![House Listing table](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/houses%20listing.png)
+![House Listing table](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/houses&20listings.png)
 
 ## Form Sample (Form for admitting a tenant)
-![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/form-admit%20tenant.png)
+![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/form-add%20tenant.png)
 
 # Mobile phone views
 ## Phone dashboard
-![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/phone_dashboard.png)
+![Administrator full dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Dashboard_mobile.png)
+![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/mobile_dashboard.png)
+
 
 ## Phone form (admitting a tenant)
 ![Administrator adding a tenant](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/phone_tenants.png)
+
+## Phone form (adding new house)
+![Administrator adding a new house](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/mobile&20add&20house.png)
+
+## mobile (View tenants) 
+![mobile layout view tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/View&20Tenants&20mobile.png)
+
 
 ## Phone SMS notifications
 ![SMS Notifications](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Screenshot_2021-06-09-09-02-47.png)
@@ -150,5 +162,5 @@ We added
 ![New Dashboard](https://github.com/RLTtech2/Rental-house-management-system/blob/main/smsnotify.png)
 
 # Special Thanks to:
-- [Obed Nyakundi](https://github.com/)
+- [Dev Leon](https://github.com/RLTtech2) [Katw'a_Jnr] 
 - [Ukwaju Systems](https://ukwaju.systems/)
