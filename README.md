@@ -1,5 +1,5 @@
 # A web-based Rental House Management System
-This is a web application for Rental House Management. It was originally designed for use in administrative reccords management in 2018, and was open to the public in 2020. The original version utilized SMS for communication and MPESA for payment.
+This is a web application for Rental House Management. It was originally designed for use in administrative reccords management in 2018, and was open to the public in 2024. The original version utilized SMS for communication and MPESA for payment.
 
 Much has changed since its design to enhance its stability, security and performance. Not withstanding the changes, I believe that it still gives a solid foundation to anybody who is interested in learning the good old PHP and its application. It has instances for both imperative and OOP.
 
@@ -9,7 +9,7 @@ If you wish test the system, you can click the link below:
 
 
 # Original View
-![Administrator dashboard](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/dashboard_clear.png)
+![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/dashboard.png)
 
 
 
@@ -71,8 +71,13 @@ $sms_shortcode = "TextSMS";
 
 ## TO TEST:
 Admin panel login credentials are:
- - USER NAME:  **leon1.co.ke**
+    1.
+ - USER NAME:  **leon1@co.ke**
  - PASSWORD:   **mimi**
+    2.
+ - USERNAME:  **Raykrok1@co.ke**
+ - PASSWORD: **123456**
+
 
 ## Test link ##
 open, ("http://localhost/Rental-house-management-system/") to your browser 
@@ -80,48 +85,47 @@ open, ("http://localhost/Rental-house-management-system/") to your browser
 
 
 # License
-This is the original app as was developed in 2018. A few changes have been made ever since its deployment to enhance its security, stability, and efficiency. Even then, we took care to retain the stability of this application. It's my hope that you will find this app fun to use and easy to improve. 
+This is the original app as was developed in 2022. A few changes have been made ever since its deployment to enhance its security, stability, and efficiency. Even then, we took care to retain the stability of this application. It's my hope that you will find this app fun to use and easy to improve. 
 
 Feel free to use it as it will suit you. To receive a complete version of the software, please reach out to me via:
 
 # Need further support?
 Reach out for a stable version or support via:
-Email: *paulnyaxx@gmail.com* or 
-Tel:   *+254706748162*
+Email: *richieleon18@gmail.com* or 
+Tel:   *+254112285341*
 
 # By me some coffee
 You can offer support via 
-1. M-Pesa:  **+254706748162** or 
-2. Paypal: **harrysp254@gmail.com**
-
+1. M-Pesa:  **+254112285341** or 
+2. 
 
 I wish you all the best as you explore this limited app!
 
 
 # Views
 ## The Blog
-![Blog](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/Blog.png)
+![Blog](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Blog.png)
 
 ## Admin Dashboard with notifications
-![Administrator dashboard](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/dashboard-2.png)
+![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/dashboard-2.png)
 
 ## Table Sample (House Listing)
-![House Listing table](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/houses%20listing.png)
+![House Listing table](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/houses%20listing.png)
 
 ## Form Sample (Form for admitting a tenant)
-![A Form for admitting tenants](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/form-admit%20tenant.png)
+![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/form-admit%20tenant.png)
 
 # Mobile phone views
 ## Phone dashboard
-![Administrator dashboard](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/phone_dashboard.png)
+![Administrator dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/phone_dashboard.png)
 
 ## Phone form (admitting a tenant)
-![Administrator adding a tenant](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/phone_tenants.png)
+![Administrator adding a tenant](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/phone_tenants.png)
 
 ## Phone SMS notifications
-![SMS Notifications](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/Screenshot_2021-06-09-09-02-47.png)
+![SMS Notifications](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Screenshot_2021-06-09-09-02-47.png)
 
-![SMS Notifications](https://github.com/ObedNyakundi/Rental-house-management-system/blob/main/Screenshot_2021-06-09-09-03-02.png)
+![SMS Notifications](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Screenshot_2021-06-09-09-03-02.png)
 
 # ...And With a New, Secure, Stable Version!
 Our improved premium version is now out, developed in Laravel. It contains features for:
@@ -143,7 +147,7 @@ We added
 - A landing page that can display all vacant rooms with their pricing.
 - Theme color changes for better visibility
 
-![New Dashboard](https://github.com//Rental-house-management-system/blob/main/smsnotify.png)
+![New Dashboard](https://github.com/RLTtech2/Rental-house-management-system/blob/main/smsnotify.png)
 
 # Special Thanks to:
 - [Obed Nyakundi](https://github.com/)
