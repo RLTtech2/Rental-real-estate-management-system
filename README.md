@@ -71,10 +71,11 @@ $sms_shortcode = "TextSMS";
 
 ## TO TEST:
 Admin panel login credentials are:
-    1.
+-   1.
  - USER NAME:  **leon1@co.ke**
  - PASSWORD:   **mimi**
-    2.
+
+-    2.
  - USERNAME:  **Raykrok1@co.ke**
  - PASSWORD: **123456**
 
@@ -116,10 +117,10 @@ I wish you all the best as you explore this limited app!
 ![House Listing table](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/house_listings.png)
 
 ## Form Sample (Form for admitting a tenant)
-![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/form-add_tenant.png)
+![A Form for admitting tenants](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/add_tenant.png)
 
 # Mobile phone views
-## full Phone dashboard
+## full mobile dashboard
 ![Administrator full dashboard](https://github.com/RLTtech2/Rental-real-estate-management-system/blob/main/Dashboard_mobile.png)
 
 ## phone dashboard
